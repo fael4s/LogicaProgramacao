@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch1", "aumentosalario\switch1.csproj", "{146CDF7B-EA5E-4AFA-8009-3D4C179F6423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch2", "switch2\switch2.csproj", "{72667FE7-8029-4BCB-9743-0CA733788D95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch03", "switch03\switch03.csproj", "{3D9C34FA-D292-4FC3-9E42-E4DBC84DFF23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{146CDF7B-EA5E-4AFA-8009-3D4C179F6423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146CDF7B-EA5E-4AFA-8009-3D4C179F6423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146CDF7B-EA5E-4AFA-8009-3D4C179F6423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146CDF7B-EA5E-4AFA-8009-3D4C179F6423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72667FE7-8029-4BCB-9743-0CA733788D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72667FE7-8029-4BCB-9743-0CA733788D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72667FE7-8029-4BCB-9743-0CA733788D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72667FE7-8029-4BCB-9743-0CA733788D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9C34FA-D292-4FC3-9E42-E4DBC84DFF23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9C34FA-D292-4FC3-9E42-E4DBC84DFF23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9C34FA-D292-4FC3-9E42-E4DBC84DFF23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9C34FA-D292-4FC3-9E42-E4DBC84DFF23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4EA34B4-940C-4864-AB5E-A50FFCAC33E7}
+	EndGlobalSection
+EndGlobal
